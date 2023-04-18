@@ -42,7 +42,7 @@
         Je suis passionné d'informatique depuis cinq ans maintenant.
         Mon parcours en informatique a commencé au lycée où j'ai intégré une filière Bac Pro SN (Systèmes Numériques) sur une durée de trois ans,
         de ma seconde jusqu'à ma terminale. Ayant exploré divers domaines de l'informatique dans cette filière,
-        j'ai découvert que le développement était ce qui m'attirait le plus.
+        j'ai découvert que le développement était ce qui m'attirait le plus. balbalbalbalbablablablablablablabalbal
         J'ai donc choisi de me spécialiser dans ce domaine en poursuivant mes études en BTS SIO,
         où je suis actuellement en deuxième année. Mon objectif est d'obtenir un diplôme de niveau Bac+5 pour me spécialiser davantage dans le domaine de la Data ou du développement Web.
 </div>
